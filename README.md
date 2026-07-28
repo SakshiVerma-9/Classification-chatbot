@@ -4,6 +4,9 @@
 This project is a Machine Learning-based chatbot developed using Python. It predicts the most appropriate response to a user's query using Natural Language Processing (NLP) and a trained machine learning model.
 
 ---
+## 🌐 Live Demo
+
+**Deployment Link:** https://ml-chatbot-project-xjmhwvkthycdewhgsrnpk2.streamlit.app/
 
 ## 🚀 Features
 - Interactive chatbot interface
