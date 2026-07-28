@@ -22,7 +22,9 @@ st.set_page_config(
 
 # Title
 st.title("🤖 ML-Chatbot")
-st.write("Welcome! Ask me anything.")
+st.write("Hello! How can I help you today?")
+
+
 
 # User input
 user_input = st.text_input("Type your message:")
