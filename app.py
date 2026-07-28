@@ -10,18 +10,18 @@ responses = {
     "greeting": "Hello! How can I help you?",
     "goodbye": "Goodbye! Have a great day!",
     "thanks": "You're welcome!",
-    "name": "I am sakshi, your AI assistant."
+    "name": "I am ML-Chabot, your AI assistant."
 }
 
 # Streamlit page settings
 st.set_page_config(
-    page_title="sakshi",
+    page_title="ML-Chatbot",
     page_icon="🤖",
     layout="centered"
 )
 
 # Title
-st.title("🤖 sakshi")
+st.title("🤖 ML-Chatbot")
 st.write("Welcome! Ask me anything.")
 
 # User input
